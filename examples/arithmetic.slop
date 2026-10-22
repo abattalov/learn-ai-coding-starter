@@ -1,0 +1,2 @@
+— Multiplication binds tighter than addition, so this prints 7.
+hallucinate(1 + 2 * 3)✨
